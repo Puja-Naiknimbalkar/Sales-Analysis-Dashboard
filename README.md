@@ -1,8 +1,6 @@
 # Sales Analytics Dashboard | Power BI
 Overview
-
-This project presents a comprehensive Sales Analysis Dashboard developed in Power BI for Rishabh Chemicals. The dashboard provides valuable insights into sales performance, product profitability, customer behavior, regional trends, and salesperson performance to support data-driven business decisions.
-
+This project presents a comprehensive Sales Analysis Dashboard developed in Power BI. The dashboard provides valuable insights into sales performance, product profitability, customer behavior, regional trends, and salesperson performance to support data-driven business decisions.
 The objective of this dashboard is to help management and sales teams monitor business performance, identify high-performing products and regions, optimize costs, and improve overall profitability.
 
 Key Features
