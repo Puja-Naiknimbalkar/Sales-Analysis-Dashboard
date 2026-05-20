@@ -1,7 +1,4 @@
 # Sales Analytics Dashboard | Power BI 
-**Power BI | DAX | Power Query | ETL | Dashboard Development | Business Intelligence | KPI Reporting | Data Analytics**
-
-Sales Analytics Dashboard | Power BI
 📌 Project Overview
 
 The Sales Analytics Dashboard is an interactive Microsoft Power BI project designed to analyze sales performance, product profitability, customer behavior, regional trends, and sales representative performance using dynamic and visually interactive reports.
