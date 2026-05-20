@@ -20,6 +20,7 @@ Support strategic business decision-making using analytics
 This page provides a high-level overview of overall sales performance.
 
 Key Insights:
+
 Total Sales Analysis
 Total Product Cost Tracking
 Profit Analysis
