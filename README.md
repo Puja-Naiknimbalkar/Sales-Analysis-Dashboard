@@ -57,7 +57,7 @@ This page provides insights into regional sales distribution and customer demogr
 
 This dashboard analyzes salesperson contribution and regional sales performance.
 
-Key Insights:
+**Key Insights:**
 * Sales Representative Performance
 * Region-wise Sales Contribution
 * Top Performing Sales Representatives
@@ -76,7 +76,7 @@ Key Insights:
 
 📂 Dataset Information
 
-The dataset contains:
+**The dataset contains:**
 
 * Sales Amount
 * Product Categories
