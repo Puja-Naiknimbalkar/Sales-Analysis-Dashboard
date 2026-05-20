@@ -21,23 +21,23 @@ This page provides a high-level overview of overall sales performance.
 
 **Key Insights:**
 
-1) Total Sales Analysis
-2) Total Product Cost Tracking
-3) Profit Analysis
-4) Order Quantity Monitoring
-5) Year-wise Sales Trends
-6) KPI Summary Cards
+* Total Sales Analysis
+* Total Product Cost Tracking
+* Profit Analysis
+* Order Quantity Monitoring
+* Year-wise Sales Trends
+* KPI Summary Cards
 
 2️⃣ Product Performance Dashboard
 
 This dashboard focuses on product-wise profitability and sales contribution.
 
 **Key Insights:**
-1) Product Category Analysis
-2) Top Performing Products
-3) Profit Contribution by Products
-4) Product Cost Comparison
-5) Sales Trends by Product Categories
+* Product Category Analysis
+* Top Performing Products
+* Profit Contribution by Products
+* Product Cost Comparison
+* Sales Trends by Product Categories
    
 3️⃣ Regional & Customer Analysis Dashboard
 
@@ -56,52 +56,49 @@ This page provides insights into regional sales distribution and customer demogr
 This dashboard analyzes salesperson contribution and regional sales performance.
 
 Key Insights:
-Sales Representative Performance
-Region-wise Sales Contribution
-Top Performing Sales Representatives
-Product Sales by Region
-Profitability Comparison Across Regions
+* Sales Representative Performance
+* Region-wise Sales Contribution
+* Top Performing Sales Representatives
+* Product Sales by Region
+* Profitability Comparison Across Regions
+
 🛠 Tools & Technologies Used
-Microsoft Power BI
-DAX
-Power Query
-Data Modeling
-Data Visualization
-Microsoft Excel
-Business Intelligence
+
+* Microsoft Power BI
+* DAX
+* Power Query
+* Data Modeling
+* Data Visualization
+* Microsoft Excel
+* Business Intelligence
+
 📂 Dataset Information
 
 The dataset contains:
 
-Sales Amount
-Product Categories
-Product Cost
-Profit Metrics
-Customer Information
-Gender & Occupation Data
-Regional Sales Data
-Order Quantity
-Sales Representative Details
-Year-wise Sales Trends
+* Sales Amount
+* Product Categories
+* Product Cost
+* Profit Metrics
+* Customer Information
+* Gender & Occupation Data
+* Regional Sales Data
+* Order Quantity
+* Sales Representative Details
+* Year-wise Sales Trends
+
 ✨ Key Features
 
-✔ Interactive Dashboard Navigation
-✔ Dynamic KPI Cards
-✔ Product & Regional Analysis
-✔ Customer Segmentation Insights
-✔ Advanced Filtering System
-✔ Trend & Profitability Analysis
-✔ Modern Dashboard Design
-✔ Responsive Visual Layout
+✔ Interactive Dashboard Navigation ✔ Dynamic KPI Cards ✔ Product & Regional Analysis ✔ Customer Segmentation Insights ✔ Advanced Filtering System ✔ Trend & Profitability Analysis ✔ Modern Dashboard Design ✔ Responsive Visual Layout
 
 📈 Business Insights Generated
-Bikes generated the highest sales and product cost contribution
-Road Bikes emerged as the top-performing product category
-Australia showed strong regional sales performance
-Profit margins varied across product categories
-Customer demographics influenced purchasing trends
-Sales performance differed significantly by region and representative
-Sales trends highlighted opportunities for business optimization
+* Bikes generated the highest sales and product cost contribution
+* Road Bikes emerged as the top-performing product category
+* Australia showed strong regional sales performance
+* Profit margins varied across product categories
+* Customer demographics influenced purchasing trends
+* Sales performance differed significantly by region and representative
+* Sales trends highlighted opportunities for business optimization
 
 <img width="940" height="540" alt="image" src="https://github.com/user-attachments/assets/8ae51dc2-787d-49c4-bc07-c05e8f3021d8" />
 <img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/8a78014d-676e-4f26-9180-5441b77c6f26" />
