@@ -102,7 +102,59 @@ This dashboard analyzes salesperson contribution and regional sales performance.
 * Sales performance differed significantly by region and representative
 * Sales trends highlighted opportunities for business optimization
 
-<img width="940" height="540" alt="image" src="https://github.com/user-attachments/assets/8ae51dc2-787d-49c4-bc07-c05e8f3021d8" />
-<img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/8a78014d-676e-4f26-9180-5441b77c6f26" />
-<img width="940" height="544" alt="image" src="https://github.com/user-attachments/assets/c35572da-d86c-4bfc-ba70-ca61f9bb6c69" />
-<img width="940" height="537" alt="image" src="https://github.com/user-attachments/assets/9aba79a4-6bcd-4694-9985-08292c6d8640" />
+🖼 Dashboard Preview
+
+Sales Analysis
+<img width="940" height="540" alt="image" src="https://github.com/user-attachments/assets/a02a7a97-5af8-4cd6-b55e-1aa923f57e5a" />
+
+
+Customer Insights
+<img width="940" height="545" alt="image" src="https://github.com/user-attachments/assets/645598ff-807d-4505-baff-8b24fd077acf" />
+
+
+Regional Insights
+<img width="940" height="544" alt="image" src="https://github.com/user-attachments/assets/d00c98fc-0aa2-4601-80b7-7872a725e00a" />
+
+Order & Sales Representative by region
+<img width="940" height="537" alt="image" src="https://github.com/user-attachments/assets/00925d3f-9a1e-425d-9c0b-5cce717a04c8" />
+
+
+
+🚀 How to Use
+
+Download the .pbix Power BI file
+Open using Power BI Desktop
+Refresh dataset if needed
+Explore dashboard filters and interactions
+📁 Repository Structure
+
+📦 Sales Analysis Dashboard ┣ 📂 Dashboard Screenshots ┣ 📂 Dataset ┣ 📄 Sales Analysis Dashboard.pbix ┣ 📄 README.md
+
+🔗 Project Links
+
+GitHub Repository
+(Add GitHub Repository Link)
+
+Live Power BI Dashboard
+https://app.powerbi.com/view?r=eyJrIjoiYmE3Y2E1OWQtNjljNi00YzlhLWIzMWItZmRjZTgyYTJiNTVmIiwidCI6ImM5YzUwODQ4LWIwM2EtNGJlNC1iNjU1LTZlZGQ3ZmI4MWM1YSJ9
+
+LinkedIn Post
+(Add LinkedIn Post Link)
+
+📚 Skills Demonstrated
+
+Data Cleaning
+Data Modeling
+DAX Calculations
+Dashboard Storytelling
+Business Intelligence Reporting
+Interactive Visualization Design
+UI/UX Design in Power BI
+🙌 Feedback
+
+Feedback, suggestions, and improvements are always welcome. Feel free to connect and share your thoughts!
+
+👩‍💻 Author
+
+Puja Naiknimbalkar Data Analyst | Power BI Developer | Data Visualization Enthusiast
+
