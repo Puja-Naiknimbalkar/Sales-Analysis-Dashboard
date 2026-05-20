@@ -19,35 +19,38 @@ Support strategic business decision-making using analytics
 
 This page provides a high-level overview of overall sales performance.
 
-Key Insights:
+**Key Insights:**
 
-Total Sales Analysis
-Total Product Cost Tracking
-Profit Analysis
-Order Quantity Monitoring
-Year-wise Sales Trends
-KPI Summary Cards
+1) Total Sales Analysis
+2) Total Product Cost Tracking
+3) Profit Analysis
+4) Order Quantity Monitoring
+5) Year-wise Sales Trends
+6) KPI Summary Cards
+
 2️⃣ Product Performance Dashboard
 
 This dashboard focuses on product-wise profitability and sales contribution.
 
-Key Insights:
-Product Category Analysis
-Top Performing Products
-Profit Contribution by Products
-Product Cost Comparison
-Sales Trends by Product Categories
+**Key Insights:**
+1) Product Category Analysis
+2) Top Performing Products
+3) Profit Contribution by Products
+4) Product Cost Comparison
+5) Sales Trends by Product Categories
+   
 3️⃣ Regional & Customer Analysis Dashboard
 
 This page provides insights into regional sales distribution and customer demographics.
 
-Key Features:
-Region-wise Sales Analysis
-Customer Gender Distribution
-Education & Occupation Analysis
-Distance-based Customer Segmentation
-Sales Order Quantity by Region
-Interactive Filters & Slicers
+**Key Features:**
+* Region-wise Sales Analysis
+* Customer Gender Distribution
+* Education & Occupation Analysis
+* Distance-based Customer Segmentation
+* Sales Order Quantity by Region
+* Interactive Filters & Slicers
+
 4️⃣ Sales Representative Analysis Dashboard
 
 This dashboard analyzes salesperson contribution and regional sales performance.
