@@ -136,10 +136,7 @@ GitHub Repository
 [(Add GitHub Repository Link)](https://github.com/Puja-Naiknimbalkar/Sales-Analysis-Dashboard)
 
 Live Power BI Dashboard
-https://app.powerbi.com/view?r=eyJrIjoiYmE3Y2E1OWQtNjljNi00YzlhLWIzMWItZmRjZTgyYTJiNTVmIiwidCI6ImM5YzUwODQ4LWIwM2EtNGJlNC1iNjU1LTZlZGQ3ZmI4MWM1YSJ9
-
-LinkedIn Post
-(Add LinkedIn Post Link)
+Sales Analytical Dashboard
 
 📚 Skills Demonstrated
 
