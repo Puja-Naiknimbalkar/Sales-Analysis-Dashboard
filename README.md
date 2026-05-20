@@ -135,8 +135,6 @@ Explore dashboard filters and interactions
 GitHub Repository
 [(Add GitHub Repository Link)](https://github.com/Puja-Naiknimbalkar/Sales-Analysis-Dashboard)
 
-Live Power BI Dashboard
-../Users/POOJA%20NAIK/OneDrive/Desktop/Sales%20Analysis%20Dashboard.pbix
 
 📚 Skills Demonstrated
 
