@@ -6,6 +6,7 @@ The Sales Analytics Dashboard is an interactive Microsoft Power BI project desig
 This dashboard helps business users and sales managers monitor key business KPIs, identify high-performing products and regions, understand customer insights, and make data-driven business decisions through advanced analytics and visualization techniques.
 
 🎯 Project Objectives
+
 Analyze overall sales performance and profitability
 Compare product categories and regional sales trends
 Understand customer demographics and buying behavior
